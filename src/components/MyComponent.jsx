@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React from "react";
 
 const MyComponent = (props) => <h2>{props.msg}</h2>;
 
